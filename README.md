@@ -8,8 +8,7 @@ Link for model checkpoints: https://drive.google.com/drive/folders/1hROz-dhJrXPr
 
 ## Videos--->
 --------------------
-#### https://youtu.be/yNnPFnw28_Q
-#### https://www.youtube.com/watch?v=fQrsiB7uVag
+#### https://youtu.be/lEJoIiLFTYg
 ---------------------------------
 
 ## Discription and Methodology:
